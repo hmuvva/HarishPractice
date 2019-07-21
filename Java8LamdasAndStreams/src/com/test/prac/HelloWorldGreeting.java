@@ -7,7 +7,8 @@ public class HelloWorldGreeting implements Greeting{
 		
 		System.out.println("Hello world");
 		//this is practice fuck github
-		
+		//Changed to B
+
 	}
 	
 
