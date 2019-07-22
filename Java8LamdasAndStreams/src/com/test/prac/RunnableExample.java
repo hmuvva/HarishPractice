@@ -7,6 +7,7 @@ public class RunnableExample {
 		
 		Thread myLambdaThread = new Thread(()->System.out.println("printed inside lambda runnable"));
 		myLambdaThread.run();
+		//runnable Example
 	}
 		
 }
